@@ -1,5 +1,6 @@
 # FlappyBird
 ![GIF](Flappybird.gif)
+
 A Flappy Bird model using [python-pygame](https://www.pygame.org/docs/)
 
 ## Reference
